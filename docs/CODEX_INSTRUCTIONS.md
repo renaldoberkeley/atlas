@@ -154,7 +154,7 @@ Before implementing any feature:
 
 1. Read the relevant documentation in `/docs`.
 2. Reuse existing components whenever possible.
-3. Keep code modular and well documented.
+3. Keep code modular and clearly organized and documented where useful.
 4. Prefer maintainability over cleverness.
 5. If requirements are ambiguous, explain the tradeoffs before implementing.
 6. Do not introduce unnecessary dependencies.
