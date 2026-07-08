@@ -20,6 +20,15 @@ Atlas is designed to become the single place people visit whenever they need to 
 
 ---
 
+# Mission
+
+Help every person discover the smartest way to get anywhere.
+
+Atlas simplifies transportation by comparing every available option in one place while creating new transportation opportunities through trusted community rides.
+
+---
+
+
 # The Problem
 
 Today, transportation is fragmented.
@@ -142,7 +151,7 @@ The first users are likely:
 
 # Long-Term Vision
 
-Atlas becomes the operating system for transportation decisions.
+Atlas becomes the decision engine for transportation decisions.
 
 Instead of asking:
 
@@ -162,6 +171,58 @@ Atlas succeeds when:
 - Community ride offers become a trusted transportation option.
 - People save time and money by discovering better transportation choices.
 - Atlas becomes the default place people go whenever they need transportation.
+
+# Core Values
+
+Trust
+
+Transparency
+
+Safety
+
+Simplicity
+
+Consumer First
+
+Community
+
+Innovation
+
+# The Atlas Flywheel
+
+More Riders
+
+↓
+
+More Ride Requests
+
+↓
+
+More Drivers
+
+↓
+
+Better Matching
+
+↓
+
+Better Experience
+
+↓
+
+More Riders
+
+# Why AI
+
+Atlas uses AI because transportation planning is conversational.
+
+People naturally describe transportation needs in everyday language rather than filling out complex forms.
+
+AI allows Atlas to understand intent, ask follow-up questions, and recommend transportation options personalized to each traveler.
+
+# One sentence that becomes its identity
+
+Transportation should be one decision, not ten different apps.
 
 # What Atlas Is Not
 
