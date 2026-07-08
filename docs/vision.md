@@ -224,6 +224,29 @@ AI allows Atlas to understand intent, ask follow-up questions, and recommend tra
 
 Transportation should be one decision, not ten different apps.
 
+# Atlas Product Commandments
+
+1. The user should always understand why Atlas recommends something.
+
+2. Never hide costs.
+
+3. Compare before recommending.
+
+4. Community rides should feel as trustworthy as commercial rides.
+
+5. The user should never need multiple transportation apps.
+
+6. AI should reduce effort, not add conversation.
+
+7. Every screen should answer:
+   "What is my best way to get there?"
+
+8. Trust is more important than growth.
+
+9. Design for mobile first, desktop second.
+
+10. If a feature does not improve transportation decisions, reconsider building it.
+
 # What Atlas Is Not
 
 Atlas is not trying to replace Uber, Lyft, or Google Maps.
