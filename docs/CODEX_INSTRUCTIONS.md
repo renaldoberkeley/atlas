@@ -147,3 +147,17 @@ Avoid making it feel like:
 - A generic chatbot
 - A clone of Uber
 - A map-only app
+
+## Engineering Principles
+
+Before implementing any feature:
+
+1. Read the relevant documentation in `/docs`.
+2. Reuse existing components whenever possible.
+3. Keep code modular and well documented.
+4. Prefer maintainability over cleverness.
+5. If requirements are ambiguous, explain the tradeoffs before implementing.
+6. Do not introduce unnecessary dependencies.
+7. Build desktop and mobile responsive layouts from the beginning.
+8. Write production-quality code rather than prototype-quality code unless explicitly instructed otherwise.
+9. Keep commits focused and small.
